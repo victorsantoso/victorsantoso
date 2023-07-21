@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Santoso</h1>
-<h3 align="center">I'm a Back-End Developer</h3>
+<h3 align="center">I'm working at Indodax as Back-End Engineer</h3>
 
-- 🌱 I’m really passionate about **Golang, Database, System Designs, Microservices, and DevOps**
+- 🌱 I’m really passionate about **Back-End Services, System Design, Microservices, Performance Optimization, and Technologies**
 
 - 📫 How to reach me **victorsantoso1306@gmail.com**
 
